@@ -13,9 +13,9 @@ Its legacy version (1.38), which I made nearly 10 years ago, has long been a cla
 - Freely export to PDF/Markdown/Office/Anki – P.S. I also spruced up the Anki export with better styling options and tag support!
 
 ## Download Latest Mac and Windows version
-> Full features trail
-Kindle Mate for Mac Latest version: [Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
-Kindle Mate for Windows latest version: [Download on Windows Store](https://apps.microsoft.com/detail/9pn7t09k4kv7)
+> Full features trial and experience
+- Kindle Mate for Mac Latest version: [Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
+- Kindle Mate for Windows latest version: [Download on Windows Store](https://apps.microsoft.com/detail/9pn7t09k4kv7)
 
 ## Additional free or open-sourced dictionary resource that works great with new Kindle Mate/KMate
 - Recommended: Ebook reader dictionaries extracted from Wiktionary in almost all languages, in Stardict, Tabfile and Kindle format
