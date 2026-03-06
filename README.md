@@ -1,20 +1,23 @@
-# Kindle Mate for Mac Official (KMate)
-- Kindle Mate(KMate) - Manage Kindle clippings/notes and vocabulary words on Mac, supporting directly importing / exporting your notes  from **all-new Paperwhite Colorsoft  and Kindle Scribe without additional USB Transfer tool or other complex efforts**, and Amazon Kindle Read Cloud.
+# Kindle Mate for Mac and Windows Official (KMate)
+- Kindle Mate(KMate) - Manage Kindle clippings/notes and vocabulary words on Mac(now and Windows), supporting directly importing / exporting your notes  from **all-new Paperwhite Colorsoft  and Kindle Scribe without additional USB Transfer tool or other complex efforts**, and Amazon Kindle Read Cloud.
 - Unlike existing Klib/Knotes or other clippings-only apps, Kindle Mate(KMate) is the only app that aims to unify your Kindle valuable assets covering highlights,related notes and Vocabulary Builder words as well.
 
 - KMate (formerly Kindle Mate only for Windows) is a newly redesigned mate for Kindle users to manage notes, vocabulary, and knowledge—your ideal companion for deep reading and language learning with Kindle, helping you rediscover the value of your notes and vocabulary.
 Its legacy version (1.38), which I made nearly 10 years ago, has long been a classic global tool for Kindle users to organize notes, learn vocabulary, and manage knowledge. It's a freeware you can download it and free open-sourced dictionary resources here at [my SourceForge page](https://sourceforge.net/projects/kmate/)
 
-## Here’s what you can expect from the new Kindle Mate:
+## Here’s what you can expect from the new Kindle Mate, both on Windows and Mac!
 - Sync notes directly from new Kindle models (Paperwhite/Colorsoft/Scribe) – No more messing with complicated software or import/export hacks! USB and MTP are supported right out of the box.
 - Import notes/vocabulary from classic Kindles (Touch/Voyage/Oasis) – Fully compatible with the latest firmware updates.
 - Multi-source import (Kindle device/App/Amazon Cloud) + smart deduplication – We’ve updated support for the newest App and Cloud formats, and yes—Colorsoft’s colorful notes work too!
 - Supercharged Vocabulary Builder – Add StarDict/Mdict/Mobi/Text dictionaries (supports Mdx/HTML styling + pronunciation).
 - Freely export to PDF/Markdown/Office/Anki – P.S. I also spruced up the Anki export with better styling options and tag support!
 
-[Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
+## Download Latest Mac and Windows version
+> Full features trail
+Kindle Mate for Mac Latest version: [Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
+Kindle Mate for Windows latest version: [Download on Windows Store](https://apps.microsoft.com/detail/9pn7t09k4kv7)
 
-## Additional free or open-sourced dictionary resource that works great with KMate for Mac
+## Additional free or open-sourced dictionary resource that works great with new Kindle Mate/KMate
 - Recommended: Ebook reader dictionaries extracted from Wiktionary in almost all languages, in Stardict, Tabfile and Kindle format
   https://github.com/Vuizur/Wiktionary-Dictionaries/tree/master
 - Recommended: Bookfere Dictionaries for all languages
