@@ -1,30 +1,27 @@
 # Kindle Mate for Mac and Windows Official (KMate)
+- The all-new cross-platform successor to Kindle Mate — unify your highlights, notes & vocabulary from every Kindle device on macOS and Windows. Manage, learn, and export with powerful dictionaries, AI definitions, and reading analytics.
 - Kindle Mate(KMate) - Manage Kindle clippings/notes and vocabulary words on Mac(now and Windows), supporting directly importing / exporting your notes  from **all-new Paperwhite Colorsoft  and Kindle Scribe without additional USB Transfer tool or other complex efforts**, and Amazon Kindle Read Cloud.
 - Unlike existing Klib/Knotes or other clippings-only apps, Kindle Mate(KMate) is the only app that aims to unify your Kindle valuable assets covering highlights,related notes and Vocabulary Builder words as well.
 
-- KMate (formerly Kindle Mate only for Windows) is a newly redesigned mate for Kindle users to manage notes, vocabulary, and knowledge—your ideal companion for deep reading and language learning with Kindle, helping you rediscover the value of your notes and vocabulary.
-Its legacy version (1.38), which I made nearly 10 years ago, has long been a classic global tool for Kindle users to organize notes, learn vocabulary, and manage knowledge. It's a freeware you can download it and free open-sourced dictionary resources here at [my SourceForge page](https://sourceforge.net/projects/kmate/)
-
 ## Here’s what you can expect from the new Kindle Mate, both on Windows and Mac!
-- Sync notes directly from new Kindle models (Paperwhite/Colorsoft/Scribe) – No more messing with complicated software or import/export hacks! USB and MTP are supported right out of the box.
-- Import notes/vocabulary from classic Kindles (Touch/Voyage/Oasis) – Fully compatible with the latest firmware updates.
-- Multi-source import (Kindle device/App/Amazon Cloud) + smart deduplication – We’ve updated support for the newest App and Cloud formats, and yes—Colorsoft’s colorful notes work too!
-- Supercharged Vocabulary Builder – Add StarDict/Mdict/Mobi/Text dictionaries (supports Mdx/HTML styling + pronunciation).
-- Freely export to PDF/Markdown/Office/Anki – P.S. I also spruced up the Anki export with better styling options and tag support!
+- Auto-detects all Kindle models and one-click imports highlights, notes and words. Compatible with the latest Kindle Paperwhite, Colorsoft and Scribe
+- Supports note imports from Kindle devices, Kindle App and Amazon Kindle Cloud, with smart merge and deduplication. Group entries by title, author, book language, calendar and learning status.
+- Imports and manages Kindle Vocabulary Builder words with original usages and word frequency. Adds definitions from StarDict, Mdict(Mdx) and Mobi dictionaries. Integrates Google/Bing translation
+- Features all-new Reading Mode, reading statistics and heatmaps. Track your learning progress and achievements, and quickly read and learn notes and words in an immersive card view
+- Flexibly customizes copy and export ranges and fields, with export options for PDF, Markdown, Word, Excel, CSV and TXT files
+- Exports words as Anki Deck for direct import into Anki for spaced repetition learning, with customizable front/back fields, styles and layouts
 
 ## Download Latest Mac and Windows version
 > Full features trial and experience
 - Kindle Mate for Mac Latest version: [Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
 - Kindle Mate for Windows latest version: [Download on Windows Store](https://apps.microsoft.com/detail/9pn7t09k4kv7)
 
-## Additional free or open-sourced dictionary resource that works great with new Kindle Mate/KMate
-- Recommended: Ebook reader dictionaries extracted from Wiktionary in almost all languages, in Stardict, Tabfile and Kindle format
-  https://github.com/Vuizur/Wiktionary-Dictionaries/tree/master
-- Recommended: Bookfere Dictionaries for all languages
-  https://en.bookfere.com/dict 
-> Please make sure your proper usage of these resource. We don't provide any downloads or support. You can add dictionary defintions to your Kindle Vocabulary Builder words for learning and exporting to PDF/Anki/Word/Excel/CSV files using KMate for Mac by accessing Dictionaries in the App (shortcut CMD+P)
+## Pricing
+Because the platform and release model differ, KMate uses different Free/Pro strategies on Mac and Windows.  
+- Mac App Store: the free version is fully functional, with a display limit of your 1,000 most recent imported items. There are no feature limits or time limits, so you can keep using it for life. Database Mode, Reading Mode, reading analytics, import/export, and other core features are all included in Free. You can unlock unlimited capacity with either a one-time purchase or a subscription.
+- Microsoft Store (Windows): the download is the Pro edition with all features and unlimited capacity, and it includes a 15-day free trial. There is no in-app purchase or subscription. During or after the trial, you can decide whether to make a one-time purchase for the lifetime version. Unlike Mac, Windows does not have a long-term free tier with a 1,000-item limit, but the Windows version is priced significantly lower, at about 50% off the Mac price.
 
 ## Kindle Mate(KMate) Website and support
-Check this out, and please feel free to let me know if everything is working well since this is the initial macOS release , any bug, feature request is welcomed and will be appreciated.
+Check this out, and please feel free to let me know if everything is working well, any bug, feature request is welcomed and will be appreciated.
 - [Visit Official Website](https://kmate.io)
-- [Contact us or leave a message](https://kmate.io/support)
+- [Contact us or leave a message](https://kmate.io/contact)
