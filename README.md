@@ -15,6 +15,12 @@
 > Full features trial and experience
 - Kindle Mate for Mac Latest version: [Download on Mac App Store](https://apps.apple.com/app/kmate-mate-for-readers/id6757381177)
 - Kindle Mate for Windows latest version: [Download on Windows Store](https://apps.microsoft.com/detail/9pn7t09k4kv7)
+- New! KMate Mobile iOS: [AppStore](https://apps.apple.com/app/kmate-notes-words-anywhere/id6765629807)
+What's new:
+- KMate Mobile on iPhone/iPad
+- iCloud Sync, Tag Recognition & Dictionary Workflow Upgrade
+- Added Reading Mode and Global Reading Data Statistics
+- All-new Vocabulary Online & AI Dictionary
 
 ## Pricing
 Because the platform and release model differ, KMate uses different Free/Pro strategies on Mac and Windows.  
