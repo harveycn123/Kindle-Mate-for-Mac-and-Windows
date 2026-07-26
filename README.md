@@ -216,9 +216,9 @@ KMate 围绕“本地优先”的阅读与学习方式设计。你的资料库�
 
 ### 系统要求与下载
 
-- **macOS 10.13 或更高版本：**[前往 Mac App Store 下载](https://apps.apple.com/app/kmate-clippings-vocabulary/id6757381177)
-- **Windows 10/11：**[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9pn7t09k4kv7)
-- **iPhone 与 iPad，iOS/iPadOS 17 或更高版本：**[前往 App Store 下载 KMate Mobile](https://apps.apple.com/app/kmate-notes-words-anywhere/id6765629807)
+- **macOS 10.13 或更高版本:** [前往 Mac App Store 下载](https://apps.apple.com/app/kmate-clippings-vocabulary/id6757381177)
+- **Windows 10/11:** [前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9pn7t09k4kv7)
+- **iPhone 与 iPad，iOS/iPadOS 17 或更高版本:** [前往 App Store 下载 KMate Mobile](https://apps.apple.com/app/kmate-notes-words-anywhere/id6765629807)
 
 了解更多：
 [功能介绍](https://kmate.io/zh/features/) ·
