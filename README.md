@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>让 Kindle 里的每一条标注、笔记和生词，都真正为你所用。</strong><br>
-  从 Kindle 设备、Kindle App 与 Amazon Cloud 统一导入，智能整理、沉浸复习、补充词典与 AI 释义，并导出到 Anki、Markdown、PDF、Word、Excel、CSV 或 TXT。
+  从 Kindle 设备、Kindle App 与 Amazon Kindle Cloud以及微信读书、Apple Books统一导入，智能整理、沉浸复习、补充词典与 AI 释义，并导出到 Anki、Markdown、PDF、Word、Excel、CSV 或 TXT。
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ KMate brings the whole reading-to-learning workflow together: import highlights,
 
 ### Why KMate
 
-- **One home for your Kindle knowledge:** manage highlights, related notes, book notes, and vocabulary together instead of splitting them across separate tools.
+- **One home for your Kindle / WeRead / Apple Books knowledge:** manage highlights, related notes, book notes, and vocabulary together instead of splitting them across separate tools.
 - **Every major Kindle source:** import from Kindle devices, the Kindle app, Amazon Kindle Cloud, and KMate databases.
 - **Desktop depth, mobile continuity:** organize and enrich your library on Mac or Windows, then review notes and words on iPhone or iPad.
 - **Your data stays yours:** local-first storage, personal iCloud sync on supported Apple devices, and flexible exports with no forced third-party knowledge base.
@@ -55,6 +55,7 @@ KMate brings the whole reading-to-learning workflow together: import highlights,
 #### Unified Kindle import and smart organization
 
 - Import from all Kindle models, including Paperwhite, Colorsoft, Scribe, Oasis, Voyage, and Touch.
+- Supports centralized management of notes from WeChat Reading Notes and Apple Books, with tagging and color‑coding features to keep your knowledge from being scattered across different places.
 - Bring in highlights and notes from Kindle devices, the Kindle app, and Amazon Kindle Cloud.
 - Automatically recognize different languages, time zones, books, authors, sources, and color marks.
 - Merge repeated imports and filter duplicate highlights, similar clippings, and Kindle Scribe auto-save clutter.
@@ -143,7 +144,7 @@ KMate 把阅读到学习的完整流程连接在一起：导入 Kindle 标注、
 
 ### 为什么选择 KMate
 
-- **一处管理全部 Kindle 知识：** 统一管理标注、关联笔记、书籍笔记与生词，不必在多个单一功能工具之间来回切换。
+- **一处管理全部 Kindle,微信读书,Apple Books 知识：** 统一管理标注、关联笔记、书籍笔记与生词，不必在多个单一功能工具之间来回切换。
 - **覆盖主要 Kindle 数据来源：** 支持 Kindle 设备、Kindle App、Amazon Kindle Cloud 与 KMate 数据库。
 - **桌面深度管理，移动随时复习：** 在 Mac 或 Windows 上整理和完善资料，在 iPhone 或 iPad 上利用碎片时间继续阅读与学习。
 - **数据由你掌控：** 本地优先存储，Apple 设备间可使用个人 iCloud 同步，并可自由导出，不强制绑定第三方知识库。
@@ -153,6 +154,7 @@ KMate 把阅读到学习的完整流程连接在一起：导入 Kindle 标注、
 #### Kindle 多源导入与智能整理
 
 - 支持所有 Kindle 型号，包括 Paperwhite、Colorsoft、Scribe、Oasis、Voyage 与 Touch。
+- 支持微信读书笔记、Apple Books笔记集中管理、标签与颜色标记，让知识不再分布在各处。
 - 从 Kindle 设备、Kindle App 和 Amazon Kindle Cloud 导入标注与笔记。
 - 自动识别不同语言、时区、书籍、作者、来源与颜色标记。
 - 重复导入时智能合并，并可筛查重复标注、相似摘录及 Kindle Scribe 自动保存产生的冗余内容。
